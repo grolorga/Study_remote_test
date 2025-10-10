@@ -17,7 +17,7 @@
         android:id="@+id/number2"
         android:layout_width="match_parent"
         android:layout_height="72dp"
-        android:hint="Введите второе число"
+        android:hint="Введите second число"
         android:inputType="numberDecimal" />
 
     <Button
