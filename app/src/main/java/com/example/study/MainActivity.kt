@@ -13,7 +13,6 @@ class MainActivity : AppCompatActivity() {
     private lateinit var number2EditText: EditText
     private lateinit var resultTextView: TextView
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
